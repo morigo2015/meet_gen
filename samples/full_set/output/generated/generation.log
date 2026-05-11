@@ -1,0 +1,13 @@
+Processed rows: 5
+Generated documents: 4
+Skipped rows: 1
+Output directory: samples\full_set\output\generated
+
+Skipped rows:
+Row 5: missing required field "сума"
+
+Documents:
+Row 2: 001_ТОВ_Альфа.docx
+Row 3: 001_ТОВ_Альфа_2.docx
+Row 4: 002_ТОВ_Бета_Група.docx
+Row 7: 004_ТОВ_Дельта.docx
